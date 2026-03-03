@@ -1,9 +1,9 @@
 Results Multilingual Hate Speech (English):
 tp: 1247
-tn: 1688
+tn: 1690
 fp: 1497
-fn: 0
-accuracy: 0.6622292418772563
+fn: 1465
+accuracy: 0.4978809967791151
 precision: 0.4544460641399417
-recall: 1.0
-f1_score: 0.6249060385868204
+recall: 0.45980825958702065
+f1_score: 0.45711143695014667
