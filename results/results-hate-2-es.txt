@@ -1,0 +1,9 @@
+Results Multilingual Hate Speech (Spanish):
+tp: 389
+tn: 322
+fp: 496
+fn: 0
+accuracy: 0.5890637945318973
+precision: 0.43954802259887005
+recall: 1.0
+f1_score: 0.6106750392464677
