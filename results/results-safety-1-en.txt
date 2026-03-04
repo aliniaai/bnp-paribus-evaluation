@@ -1,0 +1,9 @@
+Results HarmBench (English):
+tp: 200
+tn: 0
+fp: 0
+fn: 0
+accuracy: None
+precision: 1.0
+recall: 1.0
+f1_score: 1.0
