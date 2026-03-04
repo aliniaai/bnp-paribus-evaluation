@@ -1,0 +1,9 @@
+Results NeuralAlchemy Prompt Injection Dataset (English):
+tp: 3253
+tn: 2425
+fp: 109
+fn: 479
+accuracy: 0.9061602298116821
+precision: 0.9675788221296847
+recall: 0.8716505894962486
+f1_score: 0.9171130532844657

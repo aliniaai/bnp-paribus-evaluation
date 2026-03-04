@@ -1,0 +1,9 @@
+Results Phare - Jailbreak Encoding (French):
+tp: 44
+tn: 0
+fp: 0
+fn: 27
+accuracy: None
+precision: 1.0
+recall: 0.6197183098591549
+f1_score: 0.7652173913043477
