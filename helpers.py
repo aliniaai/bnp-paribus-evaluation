@@ -59,6 +59,8 @@ def get_detection_config_json(
     wrongdoing: bool = False,
     sexual: bool = False,
     adversarial: bool = False,
+    safety_version: str = None,
+    security_version: str = None
 ) -> dict:
     detection_config_json = {}
 
@@ -75,6 +77,15 @@ def get_detection_config_json(
 
     if adversarial:
         detection_config_json["security"] = {"adversarial": True}
+
+    if safety_version or security_version:
+        detection_config_json["model_versions"] = {}
+
+    if safety_version:
+        detection_config_json["model_versions"]["safety"] = safety_version
+    
+    if security_version:
+        detection_config_json["model_versions"]["security"] = security_version
 
     return detection_config_json
 

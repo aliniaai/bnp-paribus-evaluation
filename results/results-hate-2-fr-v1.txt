@@ -1,0 +1,9 @@
+Results Multilingual Hate Speech (French):
+tp: 343
+tn: 355
+fp: 177
+fn: 222
+accuracy: 0.6362807657247037
+precision: 0.6596153846153846
+recall: 0.6070796460176991
+f1_score: 0.632258064516129

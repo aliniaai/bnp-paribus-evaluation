@@ -1,0 +1,19 @@
+Results (Hate Label Only, 2,500 examples) - Safety Guard v1:
+tp: 144
+tn: 269
+fp: 2086
+fn: 0
+accuracy: 0.16526610644257703
+precision: 0.06457399103139014
+recall: 1.0
+f1_score: 0.12131423757371526
+
+Results (Hate Label Only, 2,500 examples) - Safety Guard v1:
+tp: 2057
+tn: 248
+fp: 172
+fn: 22
+accuracy: 0.9223689475790317
+precision: 0.9228353521758637
+recall: 0.9894179894179894
+f1_score: 0.9549675023212628

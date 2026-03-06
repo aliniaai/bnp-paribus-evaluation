@@ -1,0 +1,9 @@
+Results Violent Speech - VILLANOS (Spanish):
+tp: 1126
+tn: 1908
+fp: 374
+fn: 1345
+accuracy: 0.6383336839890595
+precision: 0.7506666666666667
+recall: 0.4556859571023877
+f1_score: 0.5671115588013095
