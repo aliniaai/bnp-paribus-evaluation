@@ -1,0 +1,9 @@
+Results Harmful Advice Dataset (test split):
+tp: 198
+tn: 109
+fp: 1
+fn: 242
+accuracy: 0.5581818181818182
+precision: 0.9949748743718593
+recall: 0.45
+f1_score: 0.6197183098591549
